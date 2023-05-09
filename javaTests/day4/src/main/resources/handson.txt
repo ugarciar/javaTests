@@ -1,0 +1,47 @@
+Problem Statement:
+
+1.
+
+C. Compilation fails
+
+7 is not a short type, need to be casted
+
+
+
+
+Problem Statement:
+
+2.
+
+A. true true
+
+
+
+
+Problem Statement:
+
+3.
+
+D. 343 341 340
+
+
+
+
+Problem Statement:
+
+4.
+
+C. "X extends Y” is correct if X and Y are either both classes or interfaces
+
+
+
+
+Problem Statement:
+
+5.
+
+E. Compilation fails
+
+Bottom2 constructor needs to call Top constructor (super()) as Bottom2 extends Top
+
+

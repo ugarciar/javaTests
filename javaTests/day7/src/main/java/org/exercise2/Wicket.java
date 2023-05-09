@@ -58,4 +58,12 @@ public class Wicket {
     public void setBowlerName(String bowlerName) {
         this.bowlerName = bowlerName;
     }
+
+    public void printDetails() {
+        System.out.println("Over : " + over);
+        System.out.println("Ball : " + ball);
+        System.out.println("Wicket Type : " + wicketType);
+        System.out.println("Player Name : " + playerName);
+        System.out.println("Bowler Name : " + bowlerName);
+    }
 }
