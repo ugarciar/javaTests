@@ -1,0 +1,108 @@
+Problem Statement
+
+1.
+
+The answer is: G. 4 3
+
+
+
+
+Problem Statement
+
+2.
+
+Output:
+
+hi // m3.go();
+
+hi // m4.go();
+
+2 actionable tasks: 2 executed
+
+Exception in thread "main" java.lang.NullPointerException
+
+at org.example.Mixer.main(Mixer.java:17)
+
+// Mixer m2 = new Mixer();
+
+// Mixer m5 = m2.m1; -> m1 from m2 mixer is not initialized as
+// m5.go(); -> Gives null pointer exception trying to access it
+
+
+Problem Statement
+
+3.
+
+D. r1 r4 pre b1 b2 r3 r2 hawk
+
+
+
+
+Problem Statement
+
+4.
+
+E. Compilation fails:
+
+Clidders.flipper() is a final method, it cannot be overrided in Clidlet file
+
+
+
+
+Problem Statement
+
+5.
+
+c) abstract class Class2 implements Base {} -> Compiles
+
+d) abstract class Class2 implements Base {
+ public boolean m1(){ return (true);}
+} -> compiles
+
+
+
+
+Problem Statement
+
+6.
+
+b) public abstract class Canine { public Bark speak(){ }} -> if method speak returns a Bark object
+
+
+
+
+Problem Statement
+
+7.
+
+c)  public abstract class Frob implements Frobnicate{} -> Correct class
+
+d) public class Frob implements Frobnicate{ public void twiddle(String s) {}} -> Correct class
+e) public class Frob implements Frobnicate{ public void twiddle(String s) {} public void twiddle(Integer s) {}} -> Correct class
+
+
+Problem Statement
+
+8.
+
+D. Woop HAS-A Hmpf and Woop IS-A Zing
+
+Woop extends Zing so IS-A Zing, and as he extends it, HAS Zing’s Hmpf
+
+
+
+
+Problem Statement
+
+9.
+
+A. MyOuter.MyInner m = new MyOuter.MyInner();
+
+
+
+
+Problem Statement
+
+10.
+
+A. 57 22 -> If you correct the parenthesis mistakes that seems to be copied wrongly
