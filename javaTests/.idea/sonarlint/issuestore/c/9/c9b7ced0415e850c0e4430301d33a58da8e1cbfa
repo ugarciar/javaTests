@@ -1,0 +1,19 @@
+
+l
+java:S1192
+"JDefine a constant instead of duplicating this literal "Rectangle" 3 times.(óèÏ…ıÿÿÿÿ8ÓÑ¢¯€1
+i
+java:S1192	"GDefine a constant instead of duplicating this literal "Square" 4 times.(Îğõªúÿÿÿÿ8ÕÑ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÔ…úÿÿÿÿ8±Ò¢¯€1
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(Îğõªúÿÿÿÿ8²Ò¢¯€1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(óèÏ…ıÿÿÿÿ8³Ò¢¯€1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ä‡ş8³Ò¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(åÎØøÿÿÿÿ8¼Ò¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŠˆµüÿÿÿÿ8ÀÒ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÔûÙ…ûÿÿÿÿ8ÁÒ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßöÃ˜øÿÿÿÿ8ÃÒ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‘ê¤úÿÿÿÿ8ÄÒ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨îïıüÿÿÿÿ8ÅÒ¢¯€1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ß‚Üöıÿÿÿÿ8ÇÒ¢¯€1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ñğı•úÿÿÿÿ8ÇÒ¢¯€1

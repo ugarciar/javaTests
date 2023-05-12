@@ -21,7 +21,7 @@ hi // m4.go();
 
 Exception in thread "main" java.lang.NullPointerException
 
-at org.example.Mixer.main(Mixer.java:17)
+at org.exercise.Mixer.main(Mixer.java:17)
 
 // Mixer m2 = new Mixer();
 
